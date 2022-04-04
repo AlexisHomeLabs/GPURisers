@@ -23,3 +23,6 @@ Aside from the USB being several inches too short for a personal project, it's a
 
 Below is a link to their store, they are a USA based company in south Florida.  You may also find their active YouTube channel there, too.
 https://gpurisers.com/shop/
+
+
+Troubleshooting note: if you are using this in a multi GPU set up and use this as display you will have a hashrate issue. At first, you GPU will throw out regular hashrate but once you play a game or do any activity the hashrate will plumet, slowely crawl up but won't reach the normal hashrate. Be sure to use a GPU that's in the actual motherboard slot, I beleive it has to deal with a bandwidth issue between the riser, usb and/or the chip as it's not pciex16. 
