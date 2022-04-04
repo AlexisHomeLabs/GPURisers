@@ -19,3 +19,7 @@ The bottom of the GPU Riser has glued padding. If you see the padding start to w
 
 The riser board has one blue LED while the chip has one red LED. 
 
+Aside from the USB being several inches too short for a personal project, it's a solid product. 
+
+Below is a link to their store, they are a USA based company in south Florida.  You may also find their active YouTube channel there, too.
+https://gpurisers.com/shop/
